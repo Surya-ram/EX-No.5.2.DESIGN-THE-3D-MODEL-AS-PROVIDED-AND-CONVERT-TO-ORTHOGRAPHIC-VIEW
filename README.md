@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+![Ex_5.2 Drawing SURYA](https://user-images.githubusercontent.com/122000311/215312277-a90b806f-455d-4643-8228-050b38d7cb88.png)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
